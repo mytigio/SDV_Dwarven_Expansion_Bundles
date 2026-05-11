@@ -1,0 +1,17 @@
+{
+    "Name": "Dwarven Expansion Bundles",
+    "Author": "mytigio",
+    "Version": "1.0.0",
+    "Description": "A set of community bundle additions to include Dwarven Expansion items.",
+    "UniqueID": "mytigio.dwarven_expansion_bundles",
+    "UpdateKeys": [""],
+    "Dependencies": [
+        {
+            "UniqueID": "mytigio.dwarven_expansion",
+            "IsRequired": true
+        }
+	],
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}

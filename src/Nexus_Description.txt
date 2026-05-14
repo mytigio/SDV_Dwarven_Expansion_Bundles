@@ -1,0 +1,37 @@
+[center][size=6]Dwarven Expansion Bundles[/size][/center]
+Adjusts the Community Center Bundles to include various cave focused items and items from Dwarven Expansion.
+
+As Bundles are set at game start, this mod does nothing on an existing game and is not compatible with other mods that alter the same bundles.
+
+[size=5]Bundle Adjustments[/size]
+
+[size=4]Spring Crops[/size]
+Adds Cave Carrot as a crop that can be donated.
+
+[size=4]Summer Crops[/size]
+Adds Void Berry as a crop that can be donated.
+
+[size=4]Fall Crops[/size]
+Adds Midnight Gourd as a crop that can be donated.
+
+[size=4]Quality Crops[/size]
+Adds 5 Gold-star Midnight Gours as a crop that can be donated.
+
+[size=4]Animal[/size]
+Adds Copper Crab Egg, Iron Crab Egg, Gold Crab Egg and Iridium Crab Egg as options to donate.
+
+[size=4]Artisan[/size]
+Adds Infused Dwarven Spirits and Gold Emerald Ring as options for donation.
+
+[size=4]Specialty Fish[/size]
+Adds Lava Eel as a donation option.
+
+[size=4]Chef's[/size]
+Adds Ice Pip Soup as a donation option.
+
+[size=4]Enchanter's[/size]
+Adds Prismatic Dust as a donation option.
+
+
+Github Repository
+https://github.com/mytigio/SDV_Dwarven_Expansion_Bundles

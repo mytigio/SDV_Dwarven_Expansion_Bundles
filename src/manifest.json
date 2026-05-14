@@ -4,7 +4,7 @@
     "Version": "1.0.0",
     "Description": "A set of community bundle additions to include Dwarven Expansion items.",
     "UniqueID": "mytigio.dwarven_expansion_bundles",
-    "UpdateKeys": [""],
+    "UpdateKeys": ["Nexus:46204"],
     "Dependencies": [
         {
             "UniqueID": "mytigio.dwarven_expansion",
